@@ -92,6 +92,11 @@ ul{
     color: var(--primario);
  }
 
+ .header a, 
+ .header a:visited{
+    color: var(--secundario);
+ }
+
 
 .header li{
     display: block;
